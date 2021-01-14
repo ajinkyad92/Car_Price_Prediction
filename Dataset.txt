@@ -1,3 +1,0 @@
-# For Dataset please visit Kaggle
-link: https://www.kaggle.com/avikasliwal/used-cars-price-prediction
-Thank You!
